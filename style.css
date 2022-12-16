@@ -1,5 +1,6 @@
 #scoreview{
     float: left;
+    color: purple;
 }
 
 #timer{
@@ -16,6 +17,7 @@ p {
 }
 #startbutton {
     text-align: center;
+    background-color: purple;
 }
 #q1 {
     display: none;
